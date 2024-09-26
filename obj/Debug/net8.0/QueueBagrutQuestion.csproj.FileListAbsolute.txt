@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\bin\Debug\net8.0\QueueBagrutQuestion.exe
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\bin\Debug\net8.0\QueueBagrutQuestion.deps.json
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\bin\Debug\net8.0\QueueBagrutQuestion.runtimeconfig.json
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\bin\Debug\net8.0\QueueBagrutQuestion.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\bin\Debug\net8.0\QueueBagrutQuestion.pdb
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\refint\QueueBagrutQuestion.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.pdb
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\QueueBagrutQuestion.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\QueueBagrutQuestion\obj\Debug\net8.0\ref\QueueBagrutQuestion.dll
